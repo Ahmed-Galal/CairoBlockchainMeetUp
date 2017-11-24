@@ -14,7 +14,7 @@ Note - this section might be challenging, if you are not familiar with the techn
 
     - Prepare your development cloud sandbox IBM Blockchain Platform by following the three steps described at: https://ibm-blockchain.github.io/
 
-        - [Prepare & Setup] (https://ibm-blockchain.github.io/setup/)
+        - [Prepare & Setup](https://ibm-blockchain.github.io/setup/)
 
         - One Script Install
 
