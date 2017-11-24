@@ -14,11 +14,11 @@ Note - this section might be challenging, if you are not familiar with the techn
 
     - Prepare your development cloud sandbox IBM Blockchain Platform by following the three steps described at: https://ibm-blockchain.github.io/
 
-    1. Prepare & Setup
+        - Prepare & Setup
 
-    2. One Script Install
+        - One Script Install
 
-    3. Interact with your Blockchain
+        - Interact with your Blockchain
 
 
 You can use the [editor on GitHub](https://github.com/ahmedabbas/CairoBlockchainMeetUp/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
