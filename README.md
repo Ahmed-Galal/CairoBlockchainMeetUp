@@ -1,5 +1,8 @@
 ## Welcome to Cairo Blockchain Meetup
 
+### Resources for further information
+#### Blockchain Overview
+   - [Blockchain Reference Architecture](https://www.ibm.com/cloud/garage/content/architecture/blockchainArchitecture/0_1)
 
 ### Hands-on lab preparation
 
