@@ -3,7 +3,7 @@
 
 ### Hands-on lab preparation
 
-- If you do not already have one, sign up for an IBMid and create your IBM Cloud account from this link: https://console.bluemix.net/registration/
+- If you do not already have one, sign up for an IBMid and create your IBM Cloud account from this [link](https://console.bluemix.net/registration/).
 
 - There is a basic part that only requires a web browser, preferably a recent version of Google Chrome or Mozilla Firefox.
 
