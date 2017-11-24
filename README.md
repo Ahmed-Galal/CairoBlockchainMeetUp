@@ -16,8 +16,7 @@ Note - this section might be challenging, if you are not familiar with the techn
 
         - [Prepare & Setup](https://ibm-blockchain.github.io/setup/)
 
-        - One Script Install
+        - [One Script Install](https://ibm-blockchain.github.io/simple/)
 
-        - Interact with your Blockchain
+        - [Interact with your Blockchain](https://ibm-blockchain.github.io/interacting/)
         
-        [GitHub](http://github.com)
