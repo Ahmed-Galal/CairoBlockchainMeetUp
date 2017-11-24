@@ -21,3 +21,5 @@
 
         - [Interact with your Blockchain](https://ibm-blockchain.github.io/interacting/)
         
+
+Ubuntu is usually a development-friendly environment. We encourage you to have it running on your laptop on a virtual machine. One way to do that is to create the virtual machine from an [Ubuntu ISO image](https://www.ubuntu.com/download/desktop) using hypervisors like VMWare, VirtualBox, or KVM.
