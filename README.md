@@ -1,4 +1,26 @@
-## Welcome to GitHub Pages
+## Welcome to Cairo Blockchain Meetup
+
+
+    First, you will need to sign up for an IBMid and create your IBM Cloud account from this link:
+
+    https://console.bluemix.net/registration/
+
+    There is a basic part that only requires a web browser, preferably a recent version of Google Chrome or Mozilla Firefox.
+
+    For the more advanced part: 
+
+    (Note - this section might be challenging, if you are not familiar with the technologies used. Therefore, we made it optional. You are welcome to experiment.)
+
+    Install GIT, if it is not already installed: https://git-scm.com/book/en/v2/Getting-Started-Installing-Git
+
+    Prepare your development cloud sandbox IBM Blockchain Platform by following the three steps described at: https://ibm-blockchain.github.io/
+
+    1. Prepare & Setup
+
+    2. One Script Install
+
+    3. Interact with your Blockchain
+
 
 You can use the [editor on GitHub](https://github.com/ahmedabbas/CairoBlockchainMeetUp/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
