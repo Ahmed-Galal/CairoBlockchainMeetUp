@@ -3,7 +3,7 @@
 ### Resources for further information
 #### Blockchain Overview
    - [Blockchain Reference Architecture](https://www.ibm.com/cloud/garage/content/architecture/blockchainArchitecture/0_1)
-   - [Hyperledger Fabric Protocol Specification](http://fabricrepo.readthedocs.io/en/master/protocol-spec/)
+   - [Hyperledger Fabric Introduction](http://hyperledger-fabric.readthedocs.io/en/latest/blockchain.html)
 
 ### Hands-on lab preparation
 
