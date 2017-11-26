@@ -5,6 +5,7 @@
    - [Blockchain Reference Architecture](https://www.ibm.com/cloud/garage/content/architecture/blockchainArchitecture/0_1)
    - [Hyperledger Fabric Introduction](http://hyperledger-fabric.readthedocs.io/en/latest/blockchain.html)
    - [Hyperledger Fabric Capabilities](http://hyperledger-fabric.readthedocs.io/en/latest/capabilities.html)
+   - [Reimagine and disrupt your industry with blockchain](https://www.ibm.com/blockchain/industries/)
 
 ### Hands-on lab preparation
 
