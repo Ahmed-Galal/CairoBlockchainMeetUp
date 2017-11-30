@@ -1,0 +1,73 @@
+The assignment below is for trade-network sample found at composer-playground.mybluemix.net/
+
+Task 1:
+=======
+- Goal: we want price of commodity to be deducted from new owner and to be added to old owner
+
+What is specifically added to current sample:
+==============================================
+1. CTO file
+	Inside Trader participant, add below variable
+		o Double accountBalance
+	Inside trade transaction, add below variable
+		--> Trader oldOwner
+	Inside Commodity asset,  add below variable
+		o Double totalPrice
+		
+2. logic.js file
+	Inside tradeCommodity function
+		trade.newOwner.accountBalance -= trade.commodity.totalPrice;
+		trade.oldOwner.accountBalance += trade.commodity.totalPrice
+	  
+	At end of the function, add those below lines (they are used to update the the registry of 2 traders in database because their account balance is changed)
+		 .then(function()
+			{
+		   return getParticipantRegistry('org.acme.trading.Trader');   
+			})
+		  .then(function(participantRegistry)
+			{
+				return participantRegistry.update(trade.newOwner);
+			})
+		  .then(function()
+			{
+		   return getParticipantRegistry('org.acme.trading.Trader');   
+			})
+		  .then(function(participantRegistry)
+			{
+				return participantRegistry.update(trade.oldOwner);
+			});
+	  
+=======================================================================
+=======================================================================
+Task 2:
+=======
+Goal: New participant called "Regulator" has the right only to do the trade transaction
+
+What is specifically added to current sample:
+==============================================
+1. CTO file
+	participant Regulator identified by email
+	{
+		o String email
+	}
+
+2. permissions file:
+note: below code to be put first thing in the file (order is important)
+
+	rule RegulatorOnlyDoesTrade
+	{
+		description: "regulator only does trade transaction"
+		participant: "org.acme.trading.Regulator"
+		operation: ALL
+		resource: "org.acme.trading.Trade"
+		action: ALLOW 
+	}
+
+	rule NoOneDoesTrade
+	{
+		description: "No one has right to do trade transaction"
+		participant: "ANY"
+		operation: ALL
+		resource: "org.acme.trading.Trade"
+		action: DENY 
+	}
