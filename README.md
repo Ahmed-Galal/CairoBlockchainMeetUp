@@ -7,7 +7,7 @@
    - [Hyperledger Fabric Capabilities](http://hyperledger-fabric.readthedocs.io/en/latest/capabilities.html)
    - [Reimagine and disrupt your industry with blockchain](https://www.ibm.com/blockchain/industries/)
    - [Online Composer Playground](http://composer-playground.mybluemix.net)
-
+   - [Playground Tutorial](https://hyperledger.github.io/composer/tutorials/playground-tutorial.html)
 ### Hands-on lab preparation
 
 - If you do not already have one, sign up for an IBMid and create your IBM Cloud account from this [link](https://console.bluemix.net/registration/).
