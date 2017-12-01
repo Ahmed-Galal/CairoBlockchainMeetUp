@@ -6,7 +6,7 @@
    - [Hyperledger Fabric Introduction](http://hyperledger-fabric.readthedocs.io/en/latest/blockchain.html)
    - [Hyperledger Fabric Capabilities](http://hyperledger-fabric.readthedocs.io/en/latest/capabilities.html)
    - [Reimagine and disrupt your industry with blockchain](https://www.ibm.com/blockchain/industries/)
-   - [Composer Playground](composer-playground.mybluemix.net)
+   - [Online Composer Playground](http://composer-playground.mybluemix.net)
 
 ### Hands-on lab preparation
 
