@@ -9,10 +9,10 @@
    - [Online Composer Playground](http://composer-playground.mybluemix.net)
    - [Playground Tutorial](https://hyperledger.github.io/composer/tutorials/playground-tutorial.html)
 #### TrendingTechnologies
-   -[Gartner Hype Cycle, Emerging Technologies, 2017] (https://www.gartner.com/smarterwithgartner/top-trends-in-the-gartner-hype-cycle-for-emerging-technologies-2017/)
-   -[Gartner Top Ten Strategic Technology Trends, 2018] (https://www.gartner.com/smarterwithgartner/gartner-top-10-strategic-technology-trends-for-2018/)
-   -[IBM and Walmart in Blockchain] (http://www.businessinsider.com/ibm-and-walmart-are-using-blockchain-in-the-food-supply-chain-2017-8)
-   -[The Genesis of Kuri] (https://www.wired.com/story/the-genesis-of-kuri/)
+   -[Gartner Hype Cycle, Emerging Technologies, 2017](https://www.gartner.com/smarterwithgartner/top-trends-in-the-gartner-hype-cycle-for-emerging-technologies-2017/)
+   -[Gartner Top Ten Strategic Technology Trends, 2018](https://www.gartner.com/smarterwithgartner/gartner-top-10-strategic-technology-trends-for-2018/)
+   -[IBM and Walmart in Blockchain](http://www.businessinsider.com/ibm-and-walmart-are-using-blockchain-in-the-food-supply-chain-2017-8)
+   -[The Genesis of Kuri](https://www.wired.com/story/the-genesis-of-kuri/)
    
 ### Hands-on lab preparation
 
